@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/abhijit-gandhale-595714319/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="">
+  <a href="https://leetcode.com/u/Abhijhit/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
